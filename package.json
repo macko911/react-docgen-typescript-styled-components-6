@@ -1,0 +1,22 @@
+{
+  "name": "react-docgen-typescript-styled-components-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docgen": "node docgen.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-docgen-typescript": "2.2.2",
+    "react-dom": "18.2.0",
+    "styled-components": "6.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.37",
+    "@types/react-dom": "18.2.15"
+  }
+}
